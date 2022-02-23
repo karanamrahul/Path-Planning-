@@ -12,7 +12,7 @@ $ pip3 install numpy
 ```
 Steps to run
 ```
-$ cd proj1_rahul_karanam
+$ cd Path-Planning-8-puzzle/code
 $ python3 eightPuzzle.py
 ```
 (Please enter the input on the terminal after the following prompt:)
